@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proclamation, anent the making use of forreign salt</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <extent>Approx. 3KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09975</idno><idno type="EEBO-CITATION">80923615</idno>
+  <idno type="VID">191994</idno>
+  <idno type="EEBO-PROQUEST">2240860893</idno>
+  
+            <idno type="OCLC"> 80923615</idno>
+            <idno type="STC">Wing S1669</idno>
+            <idno type="STC">ESTC R183390</idno>
+            <idno type="OCLC">80923615</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09975)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 191994)</note>
+            <note>Images scanned from microfilm: (Early English books; 1641-1700 ; 2897:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proclamation, anent the making use of forreign salt</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Charles II, King of England, 1630-1685.</author>
+                  <author>Gibson, Alexander, Sir, d. 1693.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties printers,</publisher>
+                  <pubPlace>Edinburgh, :</pubPlace>
+                  <date>1672.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Al. Gibson, Cl. Sti. Concilii.</note>
+                  <note>Proclaimed in the name of the King on Sept. 18, 1672.</note>
+                  <note>Reproduction of original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Salt industry and trade --  Law and legislation --  Early works to 1800.</term>
+               <term type="topical_term">Foreign trade regulation --  Scotland --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Politics and government --  1660-1688 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="royal_proclamation">
+            <pb facs="tcp:191994:1"/>
+            <head>
+               <figure>
+                  <head>C R</head>
+                  <q xml:lang="frm">HONI SOIT QUI MAL Y PENSE</q>
+                  <figDesc>royal blazon surmounted by a crown</figDesc>
+               </figure>
+            </head>
+            <head>PROCLAMATION, Anent the making use of Forreign Salt.</head>
+            <opener>
+               <salute>
+                  <hi>
+                     <seg rend="decorInit">C</seg>HARLES,</hi> By the Grace of GOD, King of <hi>Great Britain, France</hi> and <hi>Ireland,</hi> Defender of the Faith; To <gap reason="blank" extent="1 span">
+                     <desc>〈1 span left blank〉</desc>
+                  </gap> Macers or Messengers at Arms, Our Sheriffs in that part, conjunctly and seve<g ref="char:EOLhyphen"/>rally, specially constitute, Greeting.</salute>
+            </opener>
+            <p>Forasmuch, as upon divers im<g ref="char:EOLhyphen"/>portant considerations, by Our Proclamation of the fifteenth of <hi>June,</hi> one thousand six hundred and sixty five, We did impose twelve pounds <hi>Scots</hi> upon each Water-boll of Forreign Salt, which should be imported into this Our Kingdom of <hi>Scotland,</hi> excepting such Salt as was to be employed for making and curing of Fishes: And by another Proclamation of the ninth of <hi>March,</hi> one thousand six hundred and seventy one, We did prohibit the importation of all Salt into this Kingdom, without Licence of the Commissioners of Our Thesaury, under the pain of confiscation thereof, and of the Ships and Vessels in which the same should be imported. Notwithstanding whereof, many of Our Subjects do employ and consume considerable quantities of Forreign Salt, upon domestick and ordinary uses, albeit the Salt made in this Kingdom be abundantly sufficient for the same; and that the Commissioners appointed for managing of the Salt, are willing and ready to furnish and provide Our Sub<g ref="char:EOLhyphen"/>jects in all parts of the Kingdom, with competent quantities of that Salt at reasonable rates. And seing the intent of the foresaids Acts and Proclamations is like to be altogether frustrate, and the profitable Manufactory of Salt in this Kingdom will be exceedingly damnified, if the foresaid practice be not restrained for the future. Therefore We, with advice of the Lords of Our Privy Council, do hereby prohibite and discharge all Our Subjects of this Kingdom, after the first day of <hi>January</hi> next, in the year one thousand six hundred and seventy three, to imploy or consume for domestick uses of any sort, any Forreign Salt, under the pain of twelve pounds <hi>Scots,</hi> to be applyed to Our behoove, for every Boll of Forreign Salt, and proportionally for any lesser quantity which shall be made use of by them, in manner foresaid, and this but prejudice of the penalties provided by the foresaids Proclamations, against the Importers of Forreign Salt. And ordains these presents to be printed, and published at the Mercat-cross of <hi>Edinburgh,</hi> and other places needfull, that none pretend ignorance.</p>
+            <closer>
+               <dateline>Given at Our Palace of <hi>Holyrude-house,</hi>
+                  <date>the eighteenth day of <hi>September,</hi> one thousand six hundred and seventy two, and of Our Reign the twenty fourth Year.</date>
+               </dateline>
+               <signed>
+                  <hi>Al. Gibson,</hi> Cl. S<seg rend="sup">ti.</seg> Concilii.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>EDINBƲRGH,</hi> Printed by His Majesties Printers, 1672.</p>
+            <pb facs="tcp:191994:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
